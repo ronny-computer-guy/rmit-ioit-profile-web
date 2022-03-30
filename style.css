@@ -6,4 +6,11 @@
 body {
   background-color: black;
   color: white;
+  font-family: "Montserrat", sans-serif;
+}
+.card-body img {
+  width: 100%;
+}
+.card-title {
+  font-size: 20px;
 }
